@@ -9,4 +9,4 @@ tommyEzreal/tommyEzreal is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-> - [파이썬 기초공부](Python _basic)
+> - [파이썬 기초공부](www.naver.com)
