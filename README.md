@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 > - [파이썬 기초공부 - 제어문](Python_basic.html)
 > - NLP공부
->   - [count based word representation](count based word representation.html)
+>   - [countbased_word_representation](countbased_word_representation.html)
 >     
