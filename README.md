@@ -28,5 +28,7 @@ You can click the Preview link to take a look at your changes.
 >   - [K_means_Clustering_and_LinearReg](K_means_Clustering_and_LinearReg.html)
 >   - [BOSTON_HOUSE_REGRESSION(kaggle변형](BOSTON_HOUSE_REGRESSION.html)
 >   - [간단한 영화추천시스템 만들어보기](Movie_recommendation_system.html)
-
-
+> - Coding Test / Algorithm 공부  
+>   - [그리디](Greedy.html)
+>   - [구현](Implement.html)
+>   - [프로그래머스 연습문제](programmers_example_practice.html)
