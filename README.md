@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tommyEzreal
+- 👋 Hi, I’m @tommyEzreal / @SEO KWANG WOOK
 - 👀 I’m interested in ... ML / AI / NLP 
-- 🌱 I’m currently learning ... NLP modeling
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... NLP modeling / python programming /
+- 👨🏻‍💻 I want to be a ... NLP engineer/researcher 
 - 📫 How to reach me ... tommypro2130@naver.com
 
 <!---
