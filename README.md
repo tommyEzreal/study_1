@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 >   - [Int_Encoding](Int_Encoding.html)
 >   - [Statistical_Language_Model](Statistical_Language_Model.html)
 >   - [Tokenization](Tokenization.html)
->   - [countbased_word_representation](countbased_word_representation.html)
 >   - [regular_expression](regular_expression.html)
 >   - [RNN](RNN.html)
 >   - [BERT](BERT.html)
