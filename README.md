@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tommyEzreal / @SEO KWANG WOOK
-- 👀 I’m interested in ... ML / AI / NLP 
+- 👀 I’m interested in ... ML / NLP / Statistics
 - 🌱 I’m currently learning ... NLP modeling / python programming /
 - 👨🏻‍💻 I want to be a ... NLP engineer/researcher 
 - 📫 How to reach me ... tommypro2130@naver.com
