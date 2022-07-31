@@ -27,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 >   - [logistic_regression_gradient_descent](logistic_regression_gradient_descent.html)
 >   - [K_means_Clustering_and_LinearReg](K_means_Clustering_and_LinearReg.html)
 >   - [BOSTON_HOUSE_REGRESSION(kaggle변형](BOSTON_HOUSE_REGRESSION.html)
->   - [간단한 영화추천시스템 만들어보기](_Movie_recommendation_system.html)
+>   - [간단한 영화추천시스템 만들어보기](Movie_recommendation_system.html)
 
 
