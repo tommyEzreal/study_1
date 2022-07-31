@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 >   - [RNN](RNN.html)
 >   - [BERT](BERT.html)
 > - ML/DL공부
->   - [gradient_descent_linearmodel](gradient_descent_linear model.html)
+>   - [gradient_descent_linearmodel](gradient_descent_linearmodel.html)
 >   - [logistic_regression_gradient_descent](logistic_regression_gradient_descent.html)
 >   - [K_means_Clustering_and_LinearReg](K_means_Clustering_and_LinearReg.html)
 
