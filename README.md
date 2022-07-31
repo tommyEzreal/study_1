@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 >   - [regular_expression](regular_expression.html)
 >   - [RNN](RNN.html)
 >   - [BERT](BERT.html)
->   - [Attention is all you need paper review](https://nothinsgonnachangemyworld.tistory.com/14)
+>   - [<Attention is all you need> transformer paper review](https://nothinsgonnachangemyworld.tistory.com/14)
 > - ML/DL공부
 >   - [gradient_descent_linearmodel](gradient_descent_linearmodel.html)
 >   - [logistic_regression_gradient_descent](logistic_regression_gradient_descent.html)
