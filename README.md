@@ -4,6 +4,9 @@
 tommyEzreal/tommyEzreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+> https://tommyezreal.github.io/study_portfolio/    
+>
 > ### tommy's Jupyter notebooks for studying & practicing 
 > - NLP공부
 >   - [countbased_word_representation](countbased_word_representation.html)
